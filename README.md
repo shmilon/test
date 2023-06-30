@@ -8,7 +8,7 @@
 <p align="center">🚀 Software Engineer | 💻 Tech Enthusiast | 🌍 Open Source Contributor</p>
 
 <p align="center">
-  <img src="[path to your profile picture]" alt="Profile Picture" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/36078194" alt="Profile Picture" width="200" height="200">
 </p>
 
 <p align="center">Welcome to my GitHub profile! I'm passionate about crafting innovative solutions and building exceptional software. With a solid background in software engineering, I strive to deliver high-quality code that creates meaningful impact.</p>
