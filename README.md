@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm [Your Name]! 👋</h1>
+<h1 align="center">Hey, I'm Sazid Hasan Milon! 👋</h1>
 <p align="center">
-  <a href="[your website or portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
-  <a href="[your LinkedIn profile URL]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[your Twitter profile URL]"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="http://shmilon.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/shmilon/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/sazidhasanmilon"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 <p align="center">🚀 Software Engineer | 💻 Tech Enthusiast | 🌍 Open Source Contributor</p>
@@ -52,7 +52,13 @@ I actively contribute to the open source community and believe in giving back. S
 
 ## 📫 Let's Connect
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](your LinkedIn profile URL). Let's connect and create something amazing together!
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shmilon/). Let's connect and create something amazing together!
+
+You can also find me on:
+- [Facebook](https://www.facebook.com/sazidhasanmilon)
+- [Twitter](https://twitter.com/sazidhasanmilon)
+- [My Freelancer Marketplace Profiles: Fiverr](link to Fiverr profile), [Freelancer](link to Freelancer profile), [UpWork](link to UpWork profile
+- [My Freelancer Marketplace Profiles: Fiverr](link to Fiverr profile), [Freelancer](link to Freelancer profile), [UpWork](link to UpWork profile)
 
 Thank you for visiting my profile! Don't forget to explore my repositories and projects. If you find something interesting or useful, show your support with a ⭐️.
 
