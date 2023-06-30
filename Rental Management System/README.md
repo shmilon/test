@@ -92,7 +92,3 @@ For any inquiries or questions, please reach out to:
 - [Project Website](http://your-project-website.com)
 
 We would love to hear from you!
-
-```
-
-Remember to replace `[Language]`, `[Framework]`, `[Database]`, `[UI/UX Framework]`, `[Payment Gateway]`, `[Deployment Platform]`, `[your-username]`,
