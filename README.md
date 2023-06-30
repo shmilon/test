@@ -23,9 +23,8 @@
 
 ## 🔭 Current Projects
 
-- 🌟 [Project 1](link to project) - Brief description
-- 🌟 [Project 2](link to project) - Brief description
-- 🌟 [Project 3](link to project) - Brief description
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
 
 ## 🌱 Learning Journey
 
