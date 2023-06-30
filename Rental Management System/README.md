@@ -1,5 +1,5 @@
 
-```markdown
+
 <h1 align="center">Rental Management System</h1>
 
 <p align="center">
